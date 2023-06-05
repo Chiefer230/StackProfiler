@@ -12,3 +12,10 @@ By analyzing the collected data, a stack profiler can provide valuable insights,
 Stack profilers can be integrated into the development environment or used as standalone tools. They often provide visual representations, such as graphs or reports, to make it easier to interpret the stack usage data.
 
 In summary, a stack profiler in C is a tool that helps developers understand and optimize the stack usage of their programs. It provides information about stack frame sizes, function call patterns, and overall stack usage, enabling developers to identify and resolve stack-related issues.
+
+
+#Testing
+
+This program can run on any C program and requires a Linix enviroment inorder to operate. There are two test programs provided that can be used to test.
+
+  
